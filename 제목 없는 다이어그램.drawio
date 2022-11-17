@@ -1,1 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T17:37:01.593Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.4.0" etag="CGnQCwxL1AFfR4cBDTxB" type="github"><diagram id="5En2YoKKdio6s92kkkER">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-17T02:13:23.097Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="IzBOniyx_pEkja9ciEdT" version="20.4.0" type="github">
+  <diagram id="5En2YoKKdio6s92kkkER" name="페이지-1">
+    <mxGraphModel dx="1131" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zg10IFTx2_kNQ_x1VIHM-1" target="Zg10IFTx2_kNQ_x1VIHM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zg10IFTx2_kNQ_x1VIHM-1" target="Zg10IFTx2_kNQ_x1VIHM-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zg10IFTx2_kNQ_x1VIHM-1" target="Zg10IFTx2_kNQ_x1VIHM-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-29" value="파라미터로 사용" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zg10IFTx2_kNQ_x1VIHM-1" target="Zg10IFTx2_kNQ_x1VIHM-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-1" value="datasets&lt;br&gt;자료형 저장 클래스" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-11" value="변수들 선언&lt;br&gt;생성자 선언" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zg10IFTx2_kNQ_x1VIHM-13" target="Zg10IFTx2_kNQ_x1VIHM-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="440" />
+              <mxPoint x="80" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-13" value="MAP(str, dynamic)&lt;br&gt;형태로 받아오는 함수" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zg10IFTx2_kNQ_x1VIHM-15" target="Zg10IFTx2_kNQ_x1VIHM-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="577" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-15" value="MAP(str, dynamic)&lt;br&gt;자료형 반환 함수" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zg10IFTx2_kNQ_x1VIHM-20" target="Zg10IFTx2_kNQ_x1VIHM-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zg10IFTx2_kNQ_x1VIHM-20" target="Zg10IFTx2_kNQ_x1VIHM-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zg10IFTx2_kNQ_x1VIHM-20" target="Zg10IFTx2_kNQ_x1VIHM-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zg10IFTx2_kNQ_x1VIHM-20" target="Zg10IFTx2_kNQ_x1VIHM-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-20" value="SP&lt;br&gt;생성 클래스" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-23" value="SP 인스턴스&lt;br&gt;변수 선언" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zg10IFTx2_kNQ_x1VIHM-24" target="Zg10IFTx2_kNQ_x1VIHM-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-24" value="SP 변수를 인스턴스로&lt;br&gt;받아오는 생성자 함수" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zg10IFTx2_kNQ_x1VIHM-26" target="Zg10IFTx2_kNQ_x1VIHM-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-26" value="SP를 새로 쓰는 함수&lt;br&gt;datasets를 파라미터로&lt;br&gt;사용하는 함수 선언&lt;br&gt;Key:&amp;nbsp;dataset.식별자변수 -&amp;gt; 값 받아오기&lt;br&gt;Value:&amp;nbsp;json.encode 해서 &lt;br&gt;json 반환 함수 사용" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="490" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zg10IFTx2_kNQ_x1VIHM-31" target="Zg10IFTx2_kNQ_x1VIHM-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zg10IFTx2_kNQ_x1VIHM-31" target="Zg10IFTx2_kNQ_x1VIHM-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-31" value="Main Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-32" value="dataset을 저장하는 함수&lt;br&gt;저장할 변수 선언&lt;br&gt;dataset 생성후 파라미터 넣기&lt;br&gt;생성된 dataset을 파라미터로 SP쓰기함수 실행" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="490" width="340" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-35" value="SP 초기화 생성자" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg10IFTx2_kNQ_x1VIHM-41" value="리스트&amp;lt;datasets&amp;gt; 반환 함수 생성&lt;br&gt;데이터를 저장할 리스트 생성&lt;br&gt;set keys = prefs.getkey =&amp;gt; 식별자를 저장하는 집합&lt;br&gt;keys.forEach 메소드로 dataset 객체를 불러 json을 디코드&lt;br&gt;리스트에 저장&lt;br&gt;return 생성한 dataset을 반환" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="630" width="400" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
